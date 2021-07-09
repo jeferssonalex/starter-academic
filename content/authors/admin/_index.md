@@ -27,15 +27,16 @@ organizations:
     url: https://ufmg.br/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Ph.D. in Computer Science
+      institution: Université de Cergy-Pontoise (ENSEA, France) & University of
+        Campinas (Unicamp, Brazil)
+      year: 2015
+    - course: M.Sc. in Computer Science
+      institution: University of Campinas (Unicamp, Brazil)
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.Sc. in Computer Science
+      institution: Universidade Estadual de Mato Grosso do Sul (UEMS, Brazil)
+      year: 2006
 email: ""
 superuser: true
 highlight_name: false

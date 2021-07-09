@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: jefersson@dcc.ufmg.br
+    link: \#jefersson@dcc.ufmg.br
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jeferssonalex

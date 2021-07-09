@@ -5,7 +5,10 @@ avatar_filename: jefersson.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - ImageProcessingMachine
+  - Image Processing
+  - Machine Learning
+  - Computer Vision
+  - Remote Sensing
 social:
   - icon: envelope
     icon_pack: fas

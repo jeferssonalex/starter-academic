@@ -1,7 +1,7 @@
 ---
 title: Jefersson Alex dos Santos
 role: Professor of Computer Science
-avatar_filename: ""
+avatar_filename: http://40anos.dcc.ufmg.br/media/imgs/professores/jefersson-santos.jpg
 bio: I am interested in image processing, machine learning and computer vision,
   and remote sensing.
 interests:

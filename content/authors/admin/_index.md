@@ -1,6 +1,7 @@
 ---
 title: Jefersson A. dos Santos
 role: Professor of Computer Science
+avatar_filename: jefersson.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

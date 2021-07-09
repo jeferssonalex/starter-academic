@@ -15,10 +15,10 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/jeferssonalex
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.br/citations?user=wXQnnTUAAAAJ&hl=pt-BR
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen

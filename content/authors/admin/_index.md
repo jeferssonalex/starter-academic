@@ -2,8 +2,8 @@
 title: Jefersson Alex dos Santos
 role: Professor of Computer Science
 avatar_filename: jefersson.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I am interested in image processing, machine learning and computer vision,
+  and remote sensing.
 interests:
   - Image Processing
   - Machine Learning

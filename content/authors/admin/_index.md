@@ -19,15 +19,12 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.br/citations?user=wXQnnTUAAAAJ&hl=pt-BR
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidade Federal de Minas Gerais
+    url: https://ufmg.br/
 education:
   courses:
     - course: PhD in Artificial Intelligence

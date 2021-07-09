@@ -1,7 +1,7 @@
 ---
 title: Jefersson A. dos Santos
 role: Professor of Computer Science
-avatar_filename: http://40anos.dcc.ufmg.br/media/imgs/professores/jefersson-santos.jpg
+avatar_filename: jefersson.png
 bio: I am interested in image processing, machine learning and computer vision,
   and remote sensing.
 interests:

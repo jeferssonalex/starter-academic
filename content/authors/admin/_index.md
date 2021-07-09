@@ -30,7 +30,7 @@ education:
     - course: Ph.D. in Computer Science
       institution: Université de Cergy-Pontoise (ENSEA, France) & University of
         Campinas (Unicamp, Brazil)
-      year: 2015
+      year: 2013
     - course: M.Sc. in Computer Science
       institution: University of Campinas (Unicamp, Brazil)
       year: 2009
